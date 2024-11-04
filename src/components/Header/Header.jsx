@@ -39,8 +39,8 @@ const Header = () => {
       <div className="Header-center">
         <span onClick={() => scrollToSection("main-video")}>메인</span>
         <span onClick={() => scrollToSection("main-Information")}>메뉴</span>
-        <span onClick={() => scrollToSection("main-store")}>지점</span>
         <span onClick={() => scrollToSection("main-system")}>프랜차이즈</span>
+        <span onClick={() => scrollToSection("main-store")}>지점</span>
         <span onClick={() => scrollToSection("Inquiry")}>창업문의</span>
       </div>
       <div className="Header-right">

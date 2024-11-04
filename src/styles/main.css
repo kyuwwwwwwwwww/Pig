@@ -656,7 +656,9 @@ td[colspan="4"] {
   font-size: 50px;
   position: absolute;
   left: 35%;
-  top: 2700px;
+  top: 2800px;
+  margin-top: 30px;
+  justify-content: center;
 }
 
 .si {
@@ -676,12 +678,14 @@ td[colspan="4"] {
 }
 
 .ar {
+  display: flex;
   font-family: "NanumBarunGothic";
   color: gray;
   position: absolute;
-  font-size: 20px;
-  left: 36.5%;
-  top: 2780px;
+  font-size: 30px;
+  top: 2900px;
+  margin-top: 20px;
+  justify-content: center;
 }
 
 .all {
@@ -698,8 +702,8 @@ td[colspan="4"] {
   cursor: pointer;
   transition: background-color 0.3s, color 0.3s;
   position: absolute;
-  left: 590px;
-  top: 2840px;
+  margin-top: 20px;
+  top: 2950px;
   text-decoration: none;
 }
 
@@ -718,6 +722,7 @@ td[colspan="4"] {
   left: 150px;
   top: 3000px;
   padding-top: 10px;
+  margin-top: 50px;
 }
 
 .custom-table {
@@ -729,6 +734,7 @@ td[colspan="4"] {
   margin: 20px auto;
   background-color: white;
   text-align: center;
+  margin-top: 70px;
 }
 
 .custom-table th,
@@ -757,6 +763,7 @@ td[colspan="4"] {
   top: 3000px;
   width: 27%;
   margin-left: 70px;
+  margin-top: 70px;
 }
 
 .youtubelink {

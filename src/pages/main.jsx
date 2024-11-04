@@ -163,7 +163,7 @@ const main = () => {
 
       <section id="main-store" section className="main-store">
         <div className="site">
-          <div className="si">마장규 </div>
+          <div className="si">마장규</div>
           <div className="o">o</div>
           <div className="sii">가맹점 현황</div>
         </div>
